@@ -29,6 +29,7 @@ class WelcomeScreen extends StatelessWidget {
               const SizedBox(height: 16),
               Text(
                 'Bienvenido $email 👋',
+                // los  emogis solo  se copian y pegan por  si quieres  agregar otro  denisse
                 style: const TextStyle(
                   fontSize: 22,
                   fontWeight: FontWeight.bold,
@@ -37,7 +38,7 @@ class WelcomeScreen extends StatelessWidget {
               ),
               const SizedBox(height: 8),
               const Text(
-                'Gracias por ser parte de la Junta Vecinal Las Palmeras 🌿',
+                'Gracias por ser parte de la Junta Vecinal Las Palmeras ',
                 style: TextStyle(fontSize: 16, color: Colors.black54),
                 textAlign: TextAlign.center,
               ),
